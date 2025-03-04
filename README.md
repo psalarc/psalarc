@@ -8,6 +8,21 @@
 
 ---
 
+## 🛠 **Technologies & Tools**
+
+### **Programming Languages**:
+- 🐍 **Python** | 📊 **SQL** | ☁️ **R** | 💻 **Java** | ⚙️ **C++**
+
+### **Libraries & Frameworks**:
+- **Machine Learning and Deep Learning:**  
+  🔹 **TensorFlow** | 🔹 **PyTorch** | 🔹 **scikit-learn** | 🔹 **Keras** |
+- **Data Science & Analytics:**  
+  🔹 **Pandas** | 🔹 **NumPy** | 🔹 **Matplotlib** | 🔹 **Seaborn**
+- **Tools & Platforms:**  
+  🔹 **AWS** | 🔹 **VS Code** | 🔹 **Jupyter** | 🔹 **Git** | 🔹 **Tableau** | 🔹 **Minitab**
+
+---
+
 ## 🚀 Featured Projects
 ### 🔹 [Reinforcement Learning Competition](https://github.com/your-repo)
 **Goal:** Building deep RL models using PyTorch for a competition.  
@@ -24,4 +39,15 @@
 ---
 
 ## 📬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pablo-salar-carrera-11394315b/)  
+
+Feel free to reach out if you're interested in collaboration, research discussions, or simply want to chat about AI!
+- [📫 **Email**](mailto:psalarc@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pablo-salar-carrera-11394315b/)
+
+
+---
+
+## 💻 **GitHub Stats**:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=psalarc&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=psalarc&layout=compact&theme=tokyonight)
