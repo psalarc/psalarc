@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Pablo Salar Carrera!
 
-🎓 **Master of Science in Data Science** - New Jersey Institute Technology (December 2024)
-🎓 **Bachelor of Arts in Mathematics and Actuarial Science** - Rider University (May 2023)
-📊 **Expertise:** Machine Learning, Deep Learning, NLP, Data Analytics  
-💡 **Passionate about:** Reinforcement Learning, AI Research, and Predictive Modeling  
+🎓 **Master of Science in Data Science** - New Jersey Institute Technology (December 2024) <br>
+🎓 **Bachelor of Arts in Mathematics and Actuarial Science** - Rider University (May 2023) <br>
+📊 **Expertise:** Machine Learning, Deep Learning, NLP, Data Analytics <br>
+💡 **Passionate about:** Reinforcement Learning, AI Research, and Predictive Modeling  <br>
 📜 **Published Research:** [Machine Learning for Diabetes Diagnosis (ACM Digital Library)](https://dl.acm.org/doi/10.1145/3655755.3655781)  
 
 ---
