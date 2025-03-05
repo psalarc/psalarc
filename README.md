@@ -28,8 +28,8 @@
 **Goal:** Building deep RL models using PyTorch for a competition.  
 **Key Techniques:** DQN, PPO, Actor-Critic  
 
-### 🔹 [Supervised Data Mining Project](https://github.com/your-repo)
-**Goal:** Implementing Random Forest, Deep Learning (LSTM/GRU), and SVM for binary classification.  
+### 🔹 [Supervised Data Mining Project](https://github.com/psalarc/salar_pablo_finaltermproj/tree/main)
+**Goal:** Implementing Random Forest, Deep Learning (LSTM), KNN, and Naïve Bayes for binary classification.  
 **Tech Stack:** Python, Sklearn, TensorFlow, Pandas  
 
 ### 🔹 [Market Basket Analysis](https://github.com/your-repo)
