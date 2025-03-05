@@ -24,9 +24,9 @@
 ---
 
 ## 🚀 Featured Projects
-### 🔹 [Reinforcement Learning Competition](https://github.com/your-repo)
-**Goal:** Building deep RL models using PyTorch for a competition.  
-**Key Techniques:** DQN, PPO, Actor-Critic  
+### 🔹 [Reinforcement Learning DQNAgent for ConnectX game](https://github.com/psalarc/DeepLearningAgent_ConnectX/tree/main)
+**Goal:** Building deep RL models using PyTorch for a ConnectX game, which is a two-player game that generalizes the popular game Connect 4
+**Key Techniques:** DQN  
 
 ### 🔹 [Supervised Data Mining Project](https://github.com/psalarc/salar_pablo_finaltermproj/tree/main)
 **Goal:** Implementing Random Forest, Deep Learning (LSTM), KNN, and Naïve Bayes for binary classification.  
