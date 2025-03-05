@@ -41,7 +41,7 @@
 ## 📬 Let's Connect!
 
 Feel free to reach out if you're interested in collaboration, research discussions, or simply want to chat about AI!
-- [📫 **Email**](mailto:psalarc@gmail.com)
+- [📫 **Email**](mailto:psalarc@gmail.com) <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pablo-salar-carrera-11394315b/)
 
 
