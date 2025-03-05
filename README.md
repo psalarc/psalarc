@@ -32,7 +32,7 @@
 **Goal:** Implementing Random Forest, Deep Learning (LSTM), KNN, and Naïve Bayes for binary classification.  
 **Tech Stack:** Python, Sklearn, TensorFlow, Pandas  
 
-### 🔹 [Market Basket Analysis](https://github.com/your-repo)
+### 🔹 [Market Basket Analysis](https://github.com/psalarc/CS634_midtermproj/tree/main)
 **Goal:** Discovering association rules using Apriori & FP-Growth algorithms.  
 **Key Insights:** Frequent itemsets, association rules, and retail analytics  
 
