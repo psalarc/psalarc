@@ -25,7 +25,7 @@
 
 ## 🚀 Featured Projects
 ### 🔹 [Reinforcement Learning DQNAgent for ConnectX game](https://github.com/psalarc/DeepLearningAgent_ConnectX/tree/main)
-**Goal:** Building deep RL models using PyTorch for a ConnectX game, which is a two-player game that generalizes the popular game Connect 4
+**Goal:** Building deep RL models using PyTorch for a ConnectX game, which is a two-player game that generalizes the popular game Connect 4 <br>
 **Key Techniques:** DQN  
 
 ### 🔹 [Supervised Data Mining Project](https://github.com/psalarc/salar_pablo_finaltermproj/tree/main)
