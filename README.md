@@ -10,13 +10,13 @@
 
 I build end-to-end machine learning systems — from data pipelines and model training to evaluation and deployment. My background spans supervised learning, deep learning, reinforcement learning, and generative AI (RAG pipelines). I have a strong mathematical foundation in statistics and probability from my actuarial science training, and I apply that rigor to model evaluation and experimental design.
 
-**Published Research:** [Machine Learning Approaches for Diabetes Diagnosis](https://dl.acm.org/doi/10.1145/3655755.3655781) — ACM Digital Library, 2024
+**Published Research:** [Machine Learning Algorithms for Diabetes Diagnosis Prediction](https://dl.acm.org/doi/10.1145/3655755.3655781) — ACM Digital Library, IVSP 2024
 
 ---
 
 ## Technical Skills
 
-**Languages:** Python, SQL, R, Java, C++
+**Languages:** Python, SQL, R
 
 **ML & Deep Learning:** PyTorch, TensorFlow, Keras, scikit-learn — supervised/unsupervised learning, deep neural networks, LSTM, DQN, Value Iteration, Policy Iteration
 
@@ -52,9 +52,9 @@ Benchmarks Random Forest, LSTM, KNN, and Naïve Bayes on a binary classification
 **Stack:** Python, TensorFlow, scikit-learn, Pandas
 
 ### [ML-Based Diabetes Risk Prediction](https://github.com/psalarc/DiabetesPredictionProject)
-Trains and compares multiple classifiers on the PIMA Indians Diabetes dataset. Includes feature importance analysis and model evaluation across key metrics.  
-**Stack:** Python, scikit-learn, TensorFlow
+Benchmarks six ML classifiers (Ridge, Random Forest, Decision Tree, KNN, SVC, Naïve Bayes) across two diabetes datasets. Best results: Ridge Classifier 83.12% accuracy (Pima dataset); Random Forest & Decision Tree 95% accuracy (Diabetes 2019). Published at ACM IVSP 2024.  
+**Stack:** Python, scikit-learn, Pandas, NumPy
 
 ---
 
-*Open to data science, ML engineering, and AI research roles. Feel free to reach out.*
+*Actively seeking ML engineering and applied AI roles. I bring production-systems thinking, rigorous statistical grounding, and hands-on experience with deep learning, reinforcement learning, and RAG architectures.*
