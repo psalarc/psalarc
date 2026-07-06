@@ -2,7 +2,7 @@
 
 **M.S. Data Science** — New Jersey Institute of Technology (December 2024)
 **B.A. Mathematics & Actuarial Science** — Rider University (May 2023)
-📍 Short Hills, NJ | [LinkedIn](https://www.linkedin.com/in/pablo-salar-carrera-11394315b) | psalarc@gmail.com
+📍 Short Hills, NJ | [LinkedIn](https://www.linkedin.com/in/pablo-salar-carrera) | psalarc@gmail.com
 
 ---
 
