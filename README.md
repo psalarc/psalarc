@@ -32,7 +32,7 @@ I build production-ready machine learning systems end-to-end: data ingestion pip
 
 ## Featured Projects
 
-### [Clinical RAG QA System](https://github.com/psalarc/Medical-RAG-QA-System) *(Private — available on request)*
+### [Clinical RAG QA System](https://github.com/psalarc/Medical-RAG-QA-System) 
 
 A full Retrieval-Augmented Generation pipeline that answers clinical medical questions grounded in a curated knowledge base. Built with Python, LangChain, LLM APIs, and FAISS vector search. Implements chunking strategy optimization, embedding selection, and retrieval quality evaluation.
 
